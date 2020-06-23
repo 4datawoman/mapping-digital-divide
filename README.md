@@ -1,2 +1,2 @@
 # mapping-digital-divide
-Visualizing the Digital Divide through geomapping Census data
+Geomapping Census data to visualize the Digital Divide
